@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScranTracker.Web", "ScranTracker.Web\ScranTracker.Web.csproj", "{1D705F87-E53B-4ABC-ADFC-A825B4D4BEB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScranTracker.Data", "ScranTracker.Data\ScranTracker.Data.csproj", "{4F766B53-08D4-4B87-B0A0-557C98DF8DC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1D705F87-E53B-4ABC-ADFC-A825B4D4BEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D705F87-E53B-4ABC-ADFC-A825B4D4BEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D705F87-E53B-4ABC-ADFC-A825B4D4BEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F766B53-08D4-4B87-B0A0-557C98DF8DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F766B53-08D4-4B87-B0A0-557C98DF8DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F766B53-08D4-4B87-B0A0-557C98DF8DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F766B53-08D4-4B87-B0A0-557C98DF8DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
